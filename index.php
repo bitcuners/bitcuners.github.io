@@ -262,7 +262,7 @@
                     <p>Bitcuners es un grupo de usuarios entusiastas, que adoptaron Bitcoins en su dia a dia. Compartimos informaci&oacute;n sobre servicios de Bitcoins o criptodivisas, tenemos desde programadores, emprendedores e inversionista y gente com&uacute;n que quiere administrar su dinero de mejor manera.</p>
                 </div>
                 <div class="col-lg-4">
-<p>La comunidad tiene la misi&oacute;n de ayudar a los miembros de conocer la r&aacute;pida evoluci&oacute;n de esta tecnolog&iacute;a. Las reuniones son hechas junto con la comunidad de <strong>Tequila Valley Cancun</strong>. Tequila Valley es una comunidad de tecno emprendedores que juntos comparten proyectos de innovaci&oacute;n    . <br />Patrocinado por DASH, la criptodivisa dedicada a los pagos electronicos.</p>
+<p>La comunidad tiene la misi&oacute;n de ayudar a los miembros de conocer la r&aacute;pida evoluci&oacute;n de esta tecnolog&iacute;a. Las reuniones son hechas junto con la comunidad de <strong>Tequila Valley Cancun</strong>. Tequila Valley es una comunidad de tecno emprendedores que juntos comparten proyectos de innovaci&oacute;n.</p>
                 </div>
             </div>
         </div>
@@ -282,13 +282,13 @@
                         <h3>Around the Web</h3>
                         <ul class="list-inline">
                             <li>
-                                <a href="http://fb.me/bitcuners" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                                <a href="http://fb.me/bitcuners.org" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <li>
                                 <a href="http://twitter.com/bitcuners" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
                             </li>
                             <li>
-                                <a href="tg://join?invite=AAh1-T5OAvxU8a0JazHFdA" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+                                <a href="http://unete.bitcuners.org" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -303,8 +303,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Tequila Valley Cancun 2015-2016
-                        <p>Patrocinado por la comunidad de <a href="http://dash.org">DASH<br /> <img style="height:50px; width:auto" src="img/dashlogo.png" /></a></p>
+                        Copyright &copy; Tequila Valley Cancun 2015-2021
                     </div>
                 </div>
             </div>
